@@ -62,7 +62,9 @@ Username: admin
 Password: admin123
 
 **Developer: Khalid Mohamed Abdi (Hajilacag)**
-Email:khalidhajilacag@gmail.com
+
+Email:khalidhajilacag@gmail.com  
+
 LinkedIn: [KhalidHaji](https://www.linkedin.com/in/khalid-mohamed-abdi-hajilacag-03b42a1b2/)
 
 Enjoy!
