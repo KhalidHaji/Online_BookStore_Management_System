@@ -1,7 +1,7 @@
 # Online_BookStore_Management_System
-#Project: Online Book Store Management System
+** Project: Online Book Store Management System **
 
-#About the Project
+** About the Project **
 ____________________
 
 An online book store management system built using PHP, MySQL, HTML, and CSS is a system that allows users to browse and purchase books online. 
