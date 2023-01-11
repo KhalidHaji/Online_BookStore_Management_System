@@ -1,7 +1,7 @@
 # Online_BookStore_Management_System
-** Project: Online Book Store Management System **
+**Project: Online Book Store Management System**
 
-** About the Project **
+**About the Project**
 ____________________
 
 An online book store management system built using PHP, MySQL, HTML, and CSS is a system that allows users to browse and purchase books online. 
@@ -9,7 +9,7 @@ It typically includes a catalog of available books, a shopping cart for purchasi
 The system may also include features such as book reviews, ratings, and recommendations, as well as tools for managing inventory and processing orders. 
 The use of PHP, MySQL, HTML, and CSS allows the system to be dynamic and interactive, with a user-friendly interface that is easy to navigate.
 
-Importance
+**Importance**
 _________________
 
 An online book store management system built using PHP, MySQL, HTML, and CSS can be important for several reasons. Some of the benefits of such a system include:
@@ -22,32 +22,32 @@ An online book store management system built using PHP, MySQL, HTML, and CSS can
 *It allows the store to offer a convenient and user-friendly shopping experience to customers.
 
 
-#Features
+**Features**
 ___________
-*Login Page
+**Login Page**
 The page where the system admin or user submit their system credential to access the data and functionalities of the clothing store management system.
 
-*Home Page
+**Home Page**
 The page where the system users will be redirected by default when logging into the system.
 
-*Suppliers Page
+**Suppliers Page**
 The page where the admin manages the list of the store's suppliers.
 
-*POS (Point of Sale) Page
+**POS (Point of Sale) Page**
 ​​​​​​​The page where the cashier, admin, or staff will encode the purchases of their customers.
 
-*Products Page
+**Products Page**
 ​​​​​​​​​​​​​​The page where the list of products are listed and managed.
 
-*Sales Report Page
+**Sales Report Page**
 ​​​​​​​The page where the monthly sales report is shown and ready to print.​​​​​​​
 
-*Users Page
+**Users Page**
 ​​​​​​​The page where the system admin manages the list of clothing store management system users.​​​​​​​
 The Online Book Store Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. 
 The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
 
-How to Run
+**How to Run**
 ____________
 
 *Download the source code and extract the zip file.
@@ -61,8 +61,8 @@ Admin Default Access
 Username: admin
 Password: admin123
 
-Developer: Khalid Mohamed Abdi (Hajilacag)
+**Developer: Khalid Mohamed Abdi (Hajilacag)**
 Email:khalidhajilacag@gmail.com
-LinkedIn:https://www.linkedin.com/in/khalid-mohamed-abdi-hajilacag-03b42a1b2/
+LinkedIn: [KhalidHaji](https://www.linkedin.com/in/khalid-mohamed-abdi-hajilacag-03b42a1b2/)
 
 Enjoy!
