@@ -51,11 +51,16 @@ The source code is fully functional and easy to modify or enhance. Follow the in
 ____________
 
 *Download the source code and extract the zip file.
+
 *Download or set up any local web server that runs PHP script.
-*Open the web-server database and create a new database name it clothing_db.
+
+*Open the web-server database and create a new database name it bookstore_db.
+
 *Import the SQL file located in the database folder of the source code.
+
 *Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
-*Open a web browser and browse the project. E.g [http://localhost/clothing-store-management-system]
+
+*Open a web browser and browse the project. E.g [http://localhost/bookstore]
 
 Admin Default Access
 Username: admin
